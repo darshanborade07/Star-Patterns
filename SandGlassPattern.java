@@ -10,7 +10,7 @@ public class SandGlassPattern {
 				System.out.print(" ");
 			}
 			for (k = i; k <= n - 1; k++) {
-				System.out.print("*" + " ");
+				System.out.print("* ");
 			}
 			System.out.println("");
 		}
@@ -19,7 +19,7 @@ public class SandGlassPattern {
 				System.out.print(" ");
 			}
 			for (k = i; k <= n - 1; k++) {
-				System.out.print("*" + " ");
+				System.out.print("* ");
 			}
 			System.out.println("");
 		}

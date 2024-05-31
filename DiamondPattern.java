@@ -13,7 +13,7 @@ public class DiamondPattern {
 				System.out.print(" ");
 			}
 			if (i == 1) {
-				System.out.println("");
+				System.out.println();
 			} else {
 				System.out.println("*");
 			}
@@ -27,7 +27,7 @@ public class DiamondPattern {
 				System.out.print(" ");
 			}
 			if (i == 1)
-				System.out.println("");
+				System.out.println();
 			else
 				System.out.println("*");
 		}
